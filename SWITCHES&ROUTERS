@@ -1,0 +1,27 @@
+what is switch?
+
+a switch connects multiple devices within the same local network (LAN).
+
+learns MAC addresses
+
+sends data only to the target device, not to all.
+
+works like a smart multi plug board for data.
+
+Example:
+a switch connects your PC, printer, and server so they can talk to each other.
+
+what is router?
+
+a router connects different networks together and routes data between them.
+
+connects your homes network to internet.
+
+assign ip address to devices.
+
+decides the best path for data packets.
+
+Example:
+At home, the Wi-Fi router connects your phone and laptop to the Internet.
+
+
