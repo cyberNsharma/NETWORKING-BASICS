@@ -1,0 +1,26 @@
+"When computers talk over the internet, they don’t use names. They use IP addresses. But your network doesn’t know how to reach these directly – that’s where ARP comes in."
+
+ARP stands for (address resolution protocol). ARP is used to find MAC address for a given IP address.
+
+WHY ARP IS IMPORTANT IN OUR NETWORK?
+
+ARP is important because it helps in local network LAN (local area network) like your wifi find each other.
+
+IP address are used to identify devices on a network,but actually send data using MAC address.
+
+Basically ARP translates IP address to MAC address.
+
+💻 Real-Life Example
+When your laptop connects to Wi-Fi and tries to load a website:
+
+Your laptop needs to talk to the Wi-Fi router (default gateway).
+
+It knows the IP address of the router (e.g., 192.168.1.1) but not the MAC.
+
+It sends an ARP request: “Who has 192.168.1.1?”
+
+The router replies with its MAC address.
+
+Now your laptop can send packets to the router using its MAC.
+
+
