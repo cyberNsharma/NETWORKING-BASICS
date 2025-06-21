@@ -1,0 +1,67 @@
+networking refers to the the practise of connecting two or more computers or devices so they can share information, resources and services.
+
+OR
+
+networking is the process of connecting computing devices to exchange data.
+
+✅ Types of Networks
+Computer networks are classified based on their coverage area, purpose, and technology used. Here are the major types:
+
+🔹 1. PAN – Personal Area Network
+Range: 1 to 10 meters
+
+Use: For connecting personal devices.
+
+Examples:
+
+Bluetooth connection between phone and wireless earphones
+
+USB-connected mouse or printer
+
+🔹 2. LAN – Local Area Network
+Range: Limited to a room, building, or small campus
+
+Use: To connect computers within a local area
+
+Examples:
+
+School computer lab network
+
+Office Wi-Fi or Ethernet
+
+Devices Used: Switch, router, cables
+
+🔹 3. WLAN – Wireless LAN
+Same as LAN, but uses Wi-Fi (wireless signals) instead of cables
+
+Example: Home Wi-Fi network connecting phone, laptop, and TV
+
+🔹 4. MAN – Metropolitan Area Network
+Range: Covers a city or town
+
+Use: To connect multiple LANs in a city
+
+Example: City-wide cable internet or university campus network
+
+🔹 5. WAN – Wide Area Network
+Range: Covers large geographical areas (countries or continents)
+
+Use: To connect multiple LANs and MANs
+
+Example: Internet is the best example of WAN
+
+🔹 6. CAN – Campus Area Network
+A special type of LAN or MAN used to connect buildings in a campus (like universities or business parks)
+🔹 7. SAN – Storage Area Network
+Used for high-speed data storage and access (e.g., in data centers)
+
+Not for regular internet but for data handling between servers and storage devices
+
+🔹 8. VPN – Virtual Private Network (Logical Network)
+Not a physical network, but a secure private tunnel over public internet
+
+Use: To protect data when accessing the internet, especially remotely
+
+Example: Employees using VPN to access company servers from home
+
+
